@@ -1,1 +1,1 @@
-# dodo-example-merchant-site
+# React + TypeScript + Vite
